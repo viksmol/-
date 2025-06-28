@@ -1,0 +1,602 @@
+[
+  {
+    "vergil_name": "Devil 1",
+    "vergil_price": "29.99",
+    "nationality": "Canada",
+    "vergil": "2017-08-02"
+  },
+  {
+    "vergil_name": "Devil 2",
+    "vergil_price": "29.99",
+    "nationality": "Germany",
+    "vergil": "2010-12-03"
+  },
+  {
+    "vergil_name": "Devil 3",
+    "vergil_price": "69.99",
+    "nationality": "USA",
+    "vergil": "2013-03-18"
+  },
+  {
+    "vergil_name": "Vergil 4",
+    "vergil_price": "29.99",
+    "nationality": "UK",
+    "vergil": "2022-09-23"
+  },
+  {
+    "vergil_name": "Vergil 5",
+    "vergil_price": "59.99",
+    "nationality": "Japan",
+    "vergil": "2019-07-31"
+  },
+  {
+    "vergil_name": "DMC 6",
+    "vergil_price": "59.99",
+    "nationality": "Canada",
+    "vergil": "2016-10-09"
+  },
+  {
+    "vergil_name": "Sparda 7",
+    "vergil_price": "19.99",
+    "nationality": "USA",
+    "vergil": "2020-06-29"
+  },
+  {
+    "vergil_name": "DMC 8",
+    "vergil_price": "69.99",
+    "nationality": "USA",
+    "vergil": "2014-02-28"
+  },
+  {
+    "vergil_name": "Devil 9",
+    "vergil_price": "19.99",
+    "nationality": "USA",
+    "vergil": "2021-03-02"
+  },
+  {
+    "vergil_name": "Devil 10",
+    "vergil_price": "39.99",
+    "nationality": "UK",
+    "vergil": "2023-04-22"
+  },
+  {
+    "vergil_name": "Devil 11",
+    "vergil_price": "59.99",
+    "nationality": "UK",
+    "vergil": "2017-06-10"
+  },
+  {
+    "vergil_name": "Devil 12",
+    "vergil_price": "49.99",
+    "nationality": "Japan",
+    "vergil": "2015-04-14"
+  },
+  {
+    "vergil_name": "Sparda 13",
+    "vergil_price": "39.99",
+    "nationality": "Japan",
+    "vergil": "2014-06-10"
+  },
+  {
+    "vergil_name": "DMC 14",
+    "vergil_price": "49.99",
+    "nationality": "Canada",
+    "vergil": "2014-04-19"
+  },
+  {
+    "vergil_name": "Devil 15",
+    "vergil_price": "49.99",
+    "nationality": "Germany",
+    "vergil": "2018-07-23"
+  },
+  {
+    "vergil_name": "DMC 16",
+    "vergil_price": "49.99",
+    "nationality": "Germany",
+    "vergil": "2011-03-08"
+  },
+  {
+    "vergil_name": "Devil 17",
+    "vergil_price": "29.99",
+    "nationality": "Germany",
+    "vergil": "2020-07-08"
+  },
+  {
+    "vergil_name": "Devil 18",
+    "vergil_price": "49.99",
+    "nationality": "Germany",
+    "vergil": "2015-10-05"
+  },
+  {
+    "vergil_name": "Yamato 19",
+    "vergil_price": "19.99",
+    "nationality": "Germany",
+    "vergil": "2022-08-18"
+  },
+  {
+    "vergil_name": "Vergil 20",
+    "vergil_price": "39.99",
+    "nationality": "UK",
+    "vergil": "2010-12-24"
+  },
+  {
+    "vergil_name": "Devil 21",
+    "vergil_price": "19.99",
+    "nationality": "UK",
+    "vergil": "2015-11-29"
+  },
+  {
+    "vergil_name": "Vergil 22",
+    "vergil_price": "19.99",
+    "nationality": "USA",
+    "vergil": "2020-06-05"
+  },
+  {
+    "vergil_name": "DMC 23",
+    "vergil_price": "49.99",
+    "nationality": "Germany",
+    "vergil": "2012-05-09"
+  },
+  {
+    "vergil_name": "Yamato 24",
+    "vergil_price": "69.99",
+    "nationality": "Germany",
+    "vergil": "2021-02-17"
+  },
+  {
+    "vergil_name": "Sparda 25",
+    "vergil_price": "49.99",
+    "nationality": "UK",
+    "vergil": "2023-05-01"
+  },
+  {
+    "vergil_name": "Vergil 26",
+    "vergil_price": "69.99",
+    "nationality": "Japan",
+    "vergil": "2010-05-25"
+  },
+  {
+    "vergil_name": "Vergil 27",
+    "vergil_price": "59.99",
+    "nationality": "Canada",
+    "vergil": "2022-05-29"
+  },
+  {
+    "vergil_name": "Devil 28",
+    "vergil_price": "19.99",
+    "nationality": "Canada",
+    "vergil": "2010-01-07"
+  },
+  {
+    "vergil_name": "DMC 29",
+    "vergil_price": "69.99",
+    "nationality": "Japan",
+    "vergil": "2021-09-24"
+  },
+  {
+    "vergil_name": "Devil 30",
+    "vergil_price": "29.99",
+    "nationality": "USA",
+    "vergil": "2016-02-20"
+  },
+  {
+    "vergil_name": "Sparda 31",
+    "vergil_price": "49.99",
+    "nationality": "Germany",
+    "vergil": "2015-02-04"
+  },
+  {
+    "vergil_name": "Yamato 32",
+    "vergil_price": "39.99",
+    "nationality": "Germany",
+    "vergil": "2018-10-16"
+  },
+  {
+    "vergil_name": "Sparda 33",
+    "vergil_price": "19.99",
+    "nationality": "Germany",
+    "vergil": "2012-01-29"
+  },
+  {
+    "vergil_name": "DMC 34",
+    "vergil_price": "29.99",
+    "nationality": "Germany",
+    "vergil": "2014-10-10"
+  },
+  {
+    "vergil_name": "Vergil 35",
+    "vergil_price": "29.99",
+    "nationality": "Canada",
+    "vergil": "2013-09-24"
+  },
+  {
+    "vergil_name": "Yamato 36",
+    "vergil_price": "29.99",
+    "nationality": "Germany",
+    "vergil": "2017-04-14"
+  },
+  {
+    "vergil_name": "Vergil 37",
+    "vergil_price": "39.99",
+    "nationality": "Canada",
+    "vergil": "2013-12-06"
+  },
+  {
+    "vergil_name": "Yamato 38",
+    "vergil_price": "59.99",
+    "nationality": "USA",
+    "vergil": "2018-12-25"
+  },
+  {
+    "vergil_name": "Devil 39",
+    "vergil_price": "29.99",
+    "nationality": "Germany",
+    "vergil": "2019-02-20"
+  },
+  {
+    "vergil_name": "DMC 40",
+    "vergil_price": "39.99",
+    "nationality": "Germany",
+    "vergil": "2014-08-22"
+  },
+  {
+    "vergil_name": "Sparda 41",
+    "vergil_price": "39.99",
+    "nationality": "Canada",
+    "vergil": "2014-03-09"
+  },
+  {
+    "vergil_name": "Devil 42",
+    "vergil_price": "59.99",
+    "nationality": "Japan",
+    "vergil": "2022-05-20"
+  },
+  {
+    "vergil_name": "DMC 43",
+    "vergil_price": "59.99",
+    "nationality": "UK",
+    "vergil": "2017-07-20"
+  },
+  {
+    "vergil_name": "Devil 44",
+    "vergil_price": "19.99",
+    "nationality": "Germany",
+    "vergil": "2014-05-25"
+  },
+  {
+    "vergil_name": "Sparda 45",
+    "vergil_price": "29.99",
+    "nationality": "Japan",
+    "vergil": "2019-12-25"
+  },
+  {
+    "vergil_name": "Yamato 46",
+    "vergil_price": "19.99",
+    "nationality": "UK",
+    "vergil": "2021-08-20"
+  },
+  {
+    "vergil_name": "Sparda 47",
+    "vergil_price": "19.99",
+    "nationality": "Canada",
+    "vergil": "2010-08-06"
+  },
+  {
+    "vergil_name": "Sparda 48",
+    "vergil_price": "29.99",
+    "nationality": "Canada",
+    "vergil": "2010-01-23"
+  },
+  {
+    "vergil_name": "Sparda 49",
+    "vergil_price": "59.99",
+    "nationality": "Japan",
+    "vergil": "2021-02-06"
+  },
+  {
+    "vergil_name": "Vergil 50",
+    "vergil_price": "69.99",
+    "nationality": "USA",
+    "vergil": "2015-10-25"
+  },
+  {
+    "vergil_name": "Yamato 51",
+    "vergil_price": "59.99",
+    "nationality": "UK",
+    "vergil": "2018-09-05"
+  },
+  {
+    "vergil_name": "Yamato 52",
+    "vergil_price": "69.99",
+    "nationality": "Japan",
+    "vergil": "2010-03-30"
+  },
+  {
+    "vergil_name": "Devil 53",
+    "vergil_price": "39.99",
+    "nationality": "UK",
+    "vergil": "2018-09-07"
+  },
+  {
+    "vergil_name": "Devil 54",
+    "vergil_price": "69.99",
+    "nationality": "Canada",
+    "vergil": "2014-11-21"
+  },
+  {
+    "vergil_name": "Vergil 55",
+    "vergil_price": "19.99",
+    "nationality": "Japan",
+    "vergil": "2022-10-09"
+  },
+  {
+    "vergil_name": "Devil 56",
+    "vergil_price": "19.99",
+    "nationality": "Canada",
+    "vergil": "2017-12-21"
+  },
+  {
+    "vergil_name": "Sparda 57",
+    "vergil_price": "49.99",
+    "nationality": "Japan",
+    "vergil": "2014-11-26"
+  },
+  {
+    "vergil_name": "Devil 58",
+    "vergil_price": "29.99",
+    "nationality": "Japan",
+    "vergil": "2018-10-28"
+  },
+  {
+    "vergil_name": "DMC 59",
+    "vergil_price": "69.99",
+    "nationality": "Canada",
+    "vergil": "2016-10-03"
+  },
+  {
+    "vergil_name": "Sparda 60",
+    "vergil_price": "69.99",
+    "nationality": "Canada",
+    "vergil": "2016-11-08"
+  },
+  {
+    "vergil_name": "DMC 61",
+    "vergil_price": "19.99",
+    "nationality": "USA",
+    "vergil": "2012-07-07"
+  },
+  {
+    "vergil_name": "Yamato 62",
+    "vergil_price": "69.99",
+    "nationality": "Germany",
+    "vergil": "2010-06-11"
+  },
+  {
+    "vergil_name": "Devil 63",
+    "vergil_price": "39.99",
+    "nationality": "USA",
+    "vergil": "2011-08-24"
+  },
+  {
+    "vergil_name": "Yamato 64",
+    "vergil_price": "49.99",
+    "nationality": "UK",
+    "vergil": "2015-08-12"
+  },
+  {
+    "vergil_name": "Devil 65",
+    "vergil_price": "39.99",
+    "nationality": "Canada",
+    "vergil": "2010-11-16"
+  },
+  {
+    "vergil_name": "DMC 66",
+    "vergil_price": "29.99",
+    "nationality": "Germany",
+    "vergil": "2012-04-23"
+  },
+  {
+    "vergil_name": "Yamato 67",
+    "vergil_price": "19.99",
+    "nationality": "USA",
+    "vergil": "2023-08-05"
+  },
+  {
+    "vergil_name": "Devil 68",
+    "vergil_price": "19.99",
+    "nationality": "Canada",
+    "vergil": "2020-04-28"
+  },
+  {
+    "vergil_name": "DMC 69",
+    "vergil_price": "19.99",
+    "nationality": "Germany",
+    "vergil": "2013-05-13"
+  },
+  {
+    "vergil_name": "Sparda 70",
+    "vergil_price": "49.99",
+    "nationality": "Japan",
+    "vergil": "2021-08-02"
+  },
+  {
+    "vergil_name": "Devil 71",
+    "vergil_price": "19.99",
+    "nationality": "UK",
+    "vergil": "2020-08-01"
+  },
+  {
+    "vergil_name": "Vergil 72",
+    "vergil_price": "49.99",
+    "nationality": "Japan",
+    "vergil": "2016-11-10"
+  },
+  {
+    "vergil_name": "DMC 73",
+    "vergil_price": "69.99",
+    "nationality": "Germany",
+    "vergil": "2021-01-08"
+  },
+  {
+    "vergil_name": "Yamato 74",
+    "vergil_price": "59.99",
+    "nationality": "UK",
+    "vergil": "2022-04-06"
+  },
+  {
+    "vergil_name": "DMC 75",
+    "vergil_price": "69.99",
+    "nationality": "Germany",
+    "vergil": "2010-05-22"
+  },
+  {
+    "vergil_name": "Yamato 76",
+    "vergil_price": "49.99",
+    "nationality": "Canada",
+    "vergil": "2013-04-18"
+  },
+  {
+    "vergil_name": "Sparda 77",
+    "vergil_price": "69.99",
+    "nationality": "USA",
+    "vergil": "2023-06-07"
+  },
+  {
+    "vergil_name": "Devil 78",
+    "vergil_price": "29.99",
+    "nationality": "Canada",
+    "vergil": "2021-05-10"
+  },
+  {
+    "vergil_name": "Devil 79",
+    "vergil_price": "69.99",
+    "nationality": "Germany",
+    "vergil": "2013-02-15"
+  },
+  {
+    "vergil_name": "Sparda 80",
+    "vergil_price": "69.99",
+    "nationality": "Germany",
+    "vergil": "2012-07-28"
+  },
+  {
+    "vergil_name": "Yamato 81",
+    "vergil_price": "49.99",
+    "nationality": "Japan",
+    "vergil": "2013-03-22"
+  },
+  {
+    "vergil_name": "Vergil 82",
+    "vergil_price": "39.99",
+    "nationality": "Canada",
+    "vergil": "2015-01-09"
+  },
+  {
+    "vergil_name": "Devil 83",
+    "vergil_price": "29.99",
+    "nationality": "UK",
+    "vergil": "2018-04-27"
+  },
+  {
+    "vergil_name": "DMC 84",
+    "vergil_price": "19.99",
+    "nationality": "Germany",
+    "vergil": "2012-11-06"
+  },
+  {
+    "vergil_name": "Devil 85",
+    "vergil_price": "19.99",
+    "nationality": "UK",
+    "vergil": "2015-02-05"
+  },
+  {
+    "vergil_name": "DMC 86",
+    "vergil_price": "19.99",
+    "nationality": "Canada",
+    "vergil": "2015-08-02"
+  },
+  {
+    "vergil_name": "Devil 87",
+    "vergil_price": "39.99",
+    "nationality": "Germany",
+    "vergil": "2018-10-18"
+  },
+  {
+    "vergil_name": "Yamato 88",
+    "vergil_price": "19.99",
+    "nationality": "UK",
+    "vergil": "2013-12-12"
+  },
+  {
+    "vergil_name": "Yamato 89",
+    "vergil_price": "69.99",
+    "nationality": "Canada",
+    "vergil": "2013-07-01"
+  },
+  {
+    "vergil_name": "Sparda 90",
+    "vergil_price": "29.99",
+    "nationality": "Germany",
+    "vergil": "2013-05-27"
+  },
+  {
+    "vergil_name": "Sparda 91",
+    "vergil_price": "59.99",
+    "nationality": "Germany",
+    "vergil": "2019-12-23"
+  },
+  {
+    "vergil_name": "Vergil 92",
+    "vergil_price": "59.99",
+    "nationality": "Japan",
+    "vergil": "2010-12-19"
+  },
+  {
+    "vergil_name": "Yamato 93",
+    "vergil_price": "39.99",
+    "nationality": "Canada",
+    "vergil": "2019-10-26"
+  },
+  {
+    "vergil_name": "Vergil 94",
+    "vergil_price": "69.99",
+    "nationality": "Germany",
+    "vergil": "2022-07-26"
+  },
+  {
+    "vergil_name": "Devil 95",
+    "vergil_price": "39.99",
+    "nationality": "Japan",
+    "vergil": "2019-11-18"
+  },
+  {
+    "vergil_name": "Yamato 96",
+    "vergil_price": "69.99",
+    "nationality": "Japan",
+    "vergil": "2015-04-02"
+  },
+  {
+    "vergil_name": "Yamato 97",
+    "vergil_price": "59.99",
+    "nationality": "USA",
+    "vergil": "2013-10-02"
+  },
+  {
+    "vergil_name": "DMC 98",
+    "vergil_price": "69.99",
+    "nationality": "Canada",
+    "vergil": "2010-05-02"
+  },
+  {
+    "vergil_name": "Devil 99",
+    "vergil_price": "29.99",
+    "nationality": "Germany",
+    "vergil": "2023-02-15"
+  },
+  {
+    "vergil_name": "Devil 100",
+    "vergil_price": "39.99",
+    "nationality": "USA",
+    "vergil": "2022-11-23"
+  }
+]
