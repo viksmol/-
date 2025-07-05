@@ -1,0 +1,452 @@
+[
+    {
+        "title": "Center Outside",
+        "release_year": 1998,
+        "developer": "Scott Group",
+        "budget": 56963467.09,
+        "genre": "Adventure",
+        "rating": 5.5,
+        "platform": "Nintendo Switch"
+    },
+    {
+        "title": "Sort Listen",
+        "release_year": 2018,
+        "developer": "Pearson-Kramer",
+        "budget": 47277299.83,
+        "genre": "Horror",
+        "rating": 8.7,
+        "platform": "PC"
+    },
+    {
+        "title": "Between Method",
+        "release_year": 2021,
+        "developer": "Barry Group",
+        "budget": 2931912.9,
+        "genre": "Horror",
+        "rating": 6.6,
+        "platform": "PC"
+    },
+    {
+        "title": "Lead Political",
+        "release_year": 2018,
+        "developer": "Dominguez LLC",
+        "budget": 26706422.99,
+        "genre": "Shooter",
+        "rating": 7.5,
+        "platform": "PC"
+    },
+    {
+        "title": "Set Suffer",
+        "release_year": 2010,
+        "developer": "Garza Inc",
+        "budget": 3155939.31,
+        "genre": "Action",
+        "rating": 7.9,
+        "platform": "PC"
+    },
+    {
+        "title": "Week Friend",
+        "release_year": 2014,
+        "developer": "Johnson Ltd",
+        "budget": 68679737.03,
+        "genre": "Horror",
+        "rating": 8.4,
+        "platform": "Mobile"
+    },
+    {
+        "title": "Number Act",
+        "release_year": 2004,
+        "developer": "Parks-Costa",
+        "budget": 76393729.41,
+        "genre": "Puzzle",
+        "rating": 7.3,
+        "platform": "Xbox"
+    },
+    {
+        "title": "She Air",
+        "release_year": 2004,
+        "developer": "Walker, Kim and Simpson",
+        "budget": 67717169.13,
+        "genre": "Puzzle",
+        "rating": 9.7,
+        "platform": "PC"
+    },
+    {
+        "title": "Early Hair",
+        "release_year": 2016,
+        "developer": "Rhodes Group",
+        "budget": 83774039.77,
+        "genre": "Racing",
+        "rating": 9.5,
+        "platform": "PC"
+    },
+    {
+        "title": "Figure With",
+        "release_year": 2001,
+        "developer": "Butler PLC",
+        "budget": 62972355.19,
+        "genre": "Platformer",
+        "rating": 9.2,
+        "platform": "PC"
+    },
+    {
+        "title": "Win Quality",
+        "release_year": 2011,
+        "developer": "Lopez Ltd",
+        "budget": 89567981.92,
+        "genre": "Platformer",
+        "rating": 7.0,
+        "platform": "Nintendo Switch"
+    },
+    {
+        "title": "Trade Fine",
+        "release_year": 2022,
+        "developer": "Paul Ltd",
+        "budget": 83020565.76,
+        "genre": "Fighting",
+        "rating": 5.1,
+        "platform": "Xbox"
+    },
+    {
+        "title": "Seek Month",
+        "release_year": 2021,
+        "developer": "Romero-Kent",
+        "budget": 84635122.1,
+        "genre": "Racing",
+        "rating": 6.4,
+        "platform": "PC"
+    },
+    {
+        "title": "Customer Floor",
+        "release_year": 2020,
+        "developer": "Matthews-Khan",
+        "budget": 24349723.36,
+        "genre": "Horror",
+        "rating": 6.5,
+        "platform": "PlayStation"
+    },
+    {
+        "title": "Throughout Yeah",
+        "release_year": 2013,
+        "developer": "Long, Castaneda and Castillo",
+        "budget": 54924996.26,
+        "genre": "Platformer",
+        "rating": 8.7,
+        "platform": "Xbox"
+    },
+    {
+        "title": "Six Subject",
+        "release_year": 1995,
+        "developer": "Perry-Thompson",
+        "budget": 43952266.84,
+        "genre": "Racing",
+        "rating": 4.6,
+        "platform": "PlayStation"
+    },
+    {
+        "title": "Official Us",
+        "release_year": 2023,
+        "developer": "Parsons, Rojas and Miller",
+        "budget": 84011158.89,
+        "genre": "Strategy",
+        "rating": 6.9,
+        "platform": "PC"
+    },
+    {
+        "title": "Record Movie",
+        "release_year": 2020,
+        "developer": "Osborne PLC",
+        "budget": 4444380.31,
+        "genre": "Platformer",
+        "rating": 9.1,
+        "platform": "Mobile"
+    },
+    {
+        "title": "Though Increase",
+        "release_year": 2015,
+        "developer": "Burns-Johnson",
+        "budget": 64750900.92,
+        "genre": "RPG",
+        "rating": 7.0,
+        "platform": "PC"
+    },
+    {
+        "title": "Animal Foot",
+        "release_year": 2002,
+        "developer": "Charles, Mendez and Lane",
+        "budget": 54007783.1,
+        "genre": "Racing",
+        "rating": 5.4,
+        "platform": "Mobile"
+    },
+    {
+        "title": "Radio Conference",
+        "release_year": 2012,
+        "developer": "Shaw Inc",
+        "budget": 95251492.09,
+        "genre": "Sports",
+        "rating": 6.1,
+        "platform": "Xbox"
+    },
+    {
+        "title": "Spend Decision",
+        "release_year": 2025,
+        "developer": "Mora, Kelley and Sullivan",
+        "budget": 60933588.07,
+        "genre": "Platformer",
+        "rating": 4.0,
+        "platform": "Mobile"
+    },
+    {
+        "title": "Guy Throw",
+        "release_year": 1998,
+        "developer": "Gomez, Browning and Hopkins",
+        "budget": 51915960.52,
+        "genre": "Racing",
+        "rating": 5.2,
+        "platform": "PC"
+    },
+    {
+        "title": "Politics Shoulder",
+        "release_year": 2020,
+        "developer": "Reyes Ltd",
+        "budget": 87014014.5,
+        "genre": "Sports",
+        "rating": 7.3,
+        "platform": "Mobile"
+    },
+    {
+        "title": "Music Table",
+        "release_year": 2016,
+        "developer": "Stone PLC",
+        "budget": 48544018.71,
+        "genre": "Strategy",
+        "rating": 6.5,
+        "platform": "PC"
+    },
+    {
+        "title": "Describe Last",
+        "release_year": 2024,
+        "developer": "Castillo LLC",
+        "budget": 54056944.75,
+        "genre": "Sports",
+        "rating": 6.0,
+        "platform": "Mobile"
+    },
+    {
+        "title": "Over Once",
+        "release_year": 1991,
+        "developer": "Everett Group",
+        "budget": 80476491.5,
+        "genre": "Fighting",
+        "rating": 5.1,
+        "platform": "Mobile"
+    },
+    {
+        "title": "Memory Tax",
+        "release_year": 2001,
+        "developer": "Perry-Smith",
+        "budget": 86114785.2,
+        "genre": "Racing",
+        "rating": 8.8,
+        "platform": "Xbox"
+    },
+    {
+        "title": "Now Price",
+        "release_year": 1992,
+        "developer": "Rivera, Greene and Ballard",
+        "budget": 84190308.74,
+        "genre": "Fighting",
+        "rating": 4.4,
+        "platform": "PC"
+    },
+    {
+        "title": "Prove Cost",
+        "release_year": 2018,
+        "developer": "Silva, Callahan and Lindsey",
+        "budget": 1554541.49,
+        "genre": "Simulation",
+        "rating": 5.5,
+        "platform": "PC"
+    },
+    {
+        "title": "Subject Today",
+        "release_year": 2001,
+        "developer": "Johnson-Acevedo",
+        "budget": 34507844.12,
+        "genre": "Adventure",
+        "rating": 5.0,
+        "platform": "Xbox"
+    },
+    {
+        "title": "Avoid Because",
+        "release_year": 2023,
+        "developer": "Chavez LLC",
+        "budget": 95200569.41,
+        "genre": "Fighting",
+        "rating": 5.6,
+        "platform": "Xbox"
+    },
+    {
+        "title": "Enjoy Exist",
+        "release_year": 2019,
+        "developer": "Salinas and Sons",
+        "budget": 70292292.72,
+        "genre": "Puzzle",
+        "rating": 6.8,
+        "platform": "PC"
+    },
+    {
+        "title": "Guy Fill",
+        "release_year": 2009,
+        "developer": "Jackson LLC",
+        "budget": 38717054.77,
+        "genre": "Horror",
+        "rating": 8.8,
+        "platform": "Xbox"
+    },
+    {
+        "title": "News Concern",
+        "release_year": 1996,
+        "developer": "Nelson, Dawson and Gibson",
+        "budget": 25420469.08,
+        "genre": "Platformer",
+        "rating": 7.1,
+        "platform": "PlayStation"
+    },
+    {
+        "title": "Fund Model",
+        "release_year": 2017,
+        "developer": "Wilson-Collins",
+        "budget": 81722262.87,
+        "genre": "Action",
+        "rating": 5.4,
+        "platform": "Nintendo Switch"
+    },
+    {
+        "title": "Gun Know",
+        "release_year": 1999,
+        "developer": "Green LLC",
+        "budget": 3629072.06,
+        "genre": "RPG",
+        "rating": 6.7,
+        "platform": "Mobile"
+    },
+    {
+        "title": "We Show",
+        "release_year": 2017,
+        "developer": "Davila, Sheppard and Reynolds",
+        "budget": 54515746.14,
+        "genre": "Shooter",
+        "rating": 9.9,
+        "platform": "Mobile"
+    },
+    {
+        "title": "Against Down",
+        "release_year": 2018,
+        "developer": "Sanders Inc",
+        "budget": 22397258.45,
+        "genre": "Fighting",
+        "rating": 4.2,
+        "platform": "Mobile"
+    },
+    {
+        "title": "Serve College",
+        "release_year": 2010,
+        "developer": "Bush-Gregory",
+        "budget": 66016406.79,
+        "genre": "Horror",
+        "rating": 4.4,
+        "platform": "Xbox"
+    },
+    {
+        "title": "Off There",
+        "release_year": 1998,
+        "developer": "Rowland Ltd",
+        "budget": 96793540.68,
+        "genre": "Action",
+        "rating": 5.8,
+        "platform": "PC"
+    },
+    {
+        "title": "Subject Run",
+        "release_year": 2009,
+        "developer": "Hayes, Warren and Johnson",
+        "budget": 91725913.69,
+        "genre": "Simulation",
+        "rating": 8.5,
+        "platform": "Nintendo Switch"
+    },
+    {
+        "title": "Republican Parent",
+        "release_year": 2006,
+        "developer": "Keller-Simmons",
+        "budget": 13126073.73,
+        "genre": "Racing",
+        "rating": 9.3,
+        "platform": "PC"
+    },
+    {
+        "title": "Sing Fire",
+        "release_year": 2003,
+        "developer": "Faulkner Inc",
+        "budget": 96223892.41,
+        "genre": "Sports",
+        "rating": 6.8,
+        "platform": "Mobile"
+    },
+    {
+        "title": "Follow Avoid",
+        "release_year": 2022,
+        "developer": "Collins LLC",
+        "budget": 3838595.17,
+        "genre": "Shooter",
+        "rating": 6.1,
+        "platform": "PlayStation"
+    },
+    {
+        "title": "Six Cold",
+        "release_year": 2017,
+        "developer": "Cunningham-Anderson",
+        "budget": 59181790.28,
+        "genre": "Puzzle",
+        "rating": 4.6,
+        "platform": "Nintendo Switch"
+    },
+    {
+        "title": "Option Unit",
+        "release_year": 2008,
+        "developer": "Garza and Sons",
+        "budget": 50460325.99,
+        "genre": "Action",
+        "rating": 6.0,
+        "platform": "Nintendo Switch"
+    },
+    {
+        "title": "Wear Over",
+        "release_year": 2008,
+        "developer": "Jackson-Parrish",
+        "budget": 1907489.07,
+        "genre": "Shooter",
+        "rating": 9.1,
+        "platform": "Mobile"
+    },
+    {
+        "title": "State Score",
+        "release_year": 1998,
+        "developer": "Hicks, Gray and Reed",
+        "budget": 33975655.22,
+        "genre": "Shooter",
+        "rating": 5.6,
+        "platform": "PC"
+    },
+    {
+        "title": "Describe Painting",
+        "release_year": 2014,
+        "developer": "Mosley, Vargas and Vasquez",
+        "budget": 93225528.44,
+        "genre": "Strategy",
+        "rating": 9.5,
+        "platform": "Mobile"
+    }
+]
